@@ -1,0 +1,32 @@
+/* Custom Styles */
+
+/* Hero Section */
+.hero {
+  background-size: cover;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero p {
+  font-size: 1.5rem;
+}
+
+.hero .btn {
+  font-size: 1.2rem;
+  padding: 10px 30px;
+}
+
+/* Section Titles */
+section h2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+footer {
+  background-color: #212529;
+}
